@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import mergeStyles from '@jasonleibowitz/merge-styles';
 
-import { mergeStyles } from './mergeStyles';
 import { formatDate } from '../src/utils';
 
 export default function AddToCalendar(WrappedButton, WrappedDropdown) {

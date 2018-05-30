@@ -1,4 +1,4 @@
-# react-add-to-calendar-button
+# React Add to Calendar Button
 
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]

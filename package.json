@@ -19,8 +19,7 @@
     "test:watch": "nwb test-react --server"
   },
   "dependencies": {
-    "classnames": "^2.2.5",
-    "date-fns": "^1.29.0"
+    "@jasonleibowitz/merge-styles": "^1.0.0"
   },
   "peerDependencies": {
     "react": "16.x"
